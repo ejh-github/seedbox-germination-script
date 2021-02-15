@@ -4,7 +4,7 @@ This script collects all magnet links on a specified web page and populates your
 ## Running The Script
 1. Clone the repository.
   ```
-  git clone https://github.com/eliashow/seedbox-germination-script.git
+  git clone https://github.com/ejh-github/seedbox-germination-script.git
   ```
 2. Change working directory.
   ```
